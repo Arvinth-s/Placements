@@ -1,0 +1,2 @@
+pivot:6
+5 found in index 0

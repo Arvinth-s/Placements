@@ -1,0 +1,1 @@
+Majority ele 4 is repeated 3 times.
