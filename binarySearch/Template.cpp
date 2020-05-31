@@ -15,6 +15,7 @@ int main()
         exit(0);
     }
     logs<<"Files created Successfully\n";
+    
     logs<<"Terminated.\n";
     return 0;
 }
