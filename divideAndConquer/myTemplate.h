@@ -13,6 +13,8 @@
 #define vvl vector<vll >
 #define umap unordered_map
 #define pq priority_queue
+#define ff first
+#define ss second
 #define MOD 1e9+7
 
 using namespace std;
