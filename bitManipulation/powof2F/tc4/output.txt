@@ -1,0 +1,1 @@
+256 is a power of 2.

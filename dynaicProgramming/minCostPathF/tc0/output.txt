@@ -1,0 +1,1 @@
+minimum cost to reach (3, 3from (0,0) = 8
