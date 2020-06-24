@@ -1,0 +1,1 @@
+1 is the minimum number of characters to be inserted to make it a palandrome

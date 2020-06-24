@@ -4,6 +4,7 @@
 #include <sys/types.h> 
 #define ll long long
 #define vi vector<int>
+#define vvi vector<vi >
 #define pii pair<int, int>
 #define vll vector<ll>
 #define str to_string
