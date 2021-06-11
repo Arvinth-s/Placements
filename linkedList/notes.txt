@@ -1,0 +1,5 @@
+OM
+
+1. It is not advisable to return pointer/address of a variable from a 
+function as it goes out of scope after the function.
+2. passing pointer to pointer: https://www.geeksforgeeks.org/passing-reference-to-a-pointer-in-c/
